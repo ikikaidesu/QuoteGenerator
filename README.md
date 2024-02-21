@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/McKZ2gB/Quote-Generator-Logo.png" alt="Project Logo">
+      <img src="https://i.ibb.co/bJpjdFB/Quote-Generator-Logo.png" alt="Project Logo">
 </p>
 
 <p align="center">
